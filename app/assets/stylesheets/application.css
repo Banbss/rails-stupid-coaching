@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+
+.card-question {
+border-left-color: lightgray;
+border-left-style: solid;
+border-left-width: 5px;
+margin-left: 5px;
+margin-bottom: 10px;
+width: 400px;
+padding: 5px;
+}
+
+.card-answer {
+  background-color: lightgoldenrodyellow;
+  border-left-color: lightgray;
+  border-left-style: solid;
+  border-left-width: 5px;
+  margin-left: 5px;
+  width: 400px;
+  padding: 5px;
+  }
